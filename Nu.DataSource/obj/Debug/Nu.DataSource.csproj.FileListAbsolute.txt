@@ -1,4 +1,0 @@
-C:\Projects\gitHub\My Stuff\Nu.DataSource\Nu.DataSource\bin\Debug\Nu.DataSource.dll
-C:\Projects\gitHub\My Stuff\Nu.DataSource\Nu.DataSource\bin\Debug\Nu.DataSource.pdb
-C:\Projects\gitHub\My Stuff\Nu.DataSource\Nu.DataSource\obj\Debug\Nu.DataSource.dll
-C:\Projects\gitHub\My Stuff\Nu.DataSource\Nu.DataSource\obj\Debug\Nu.DataSource.pdb
