@@ -1,0 +1,5 @@
+C:\git\Nu.DataSource\Nu.DataSource\bin\Debug\Nu.DataSource.dll
+C:\git\Nu.DataSource\Nu.DataSource\bin\Debug\Nu.DataSource.pdb
+C:\git\Nu.DataSource\Nu.DataSource\obj\Debug\Nu.DataSource.csprojResolveAssemblyReference.cache
+C:\git\Nu.DataSource\Nu.DataSource\obj\Debug\Nu.DataSource.dll
+C:\git\Nu.DataSource\Nu.DataSource\obj\Debug\Nu.DataSource.pdb

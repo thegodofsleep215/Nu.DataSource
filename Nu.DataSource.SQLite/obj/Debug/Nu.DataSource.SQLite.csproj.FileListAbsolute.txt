@@ -1,0 +1,12 @@
+C:\git\Nu.DataSource\Nu.DataSource.SQLite\obj\Debug\Nu.DataSource.SQLite.csprojResolveAssemblyReference.cache
+C:\git\Nu.DataSource\Nu.DataSource.SQLite\bin\Debug\x64\SQLite.Interop.dll
+C:\git\Nu.DataSource\Nu.DataSource.SQLite\bin\Debug\x86\SQLite.Interop.dll
+C:\git\Nu.DataSource\Nu.DataSource.SQLite\bin\Debug\Nu.DataSource.SQLite.dll.config
+C:\git\Nu.DataSource\Nu.DataSource.SQLite\bin\Debug\Nu.DataSource.SQLite.dll
+C:\git\Nu.DataSource\Nu.DataSource.SQLite\bin\Debug\Nu.DataSource.SQLite.pdb
+C:\git\Nu.DataSource\Nu.DataSource.SQLite\bin\Debug\Nu.DataSource.dll
+C:\git\Nu.DataSource\Nu.DataSource.SQLite\bin\Debug\System.Data.SQLite.dll
+C:\git\Nu.DataSource\Nu.DataSource.SQLite\bin\Debug\Nu.DataSource.pdb
+C:\git\Nu.DataSource\Nu.DataSource.SQLite\bin\Debug\System.Data.SQLite.xml
+C:\git\Nu.DataSource\Nu.DataSource.SQLite\obj\Debug\Nu.DataSource.SQLite.dll
+C:\git\Nu.DataSource\Nu.DataSource.SQLite\obj\Debug\Nu.DataSource.SQLite.pdb
